@@ -1,4 +1,8 @@
 # tictactoeapp
+## Note
+* Code will not run straight from downloading due to different build and version in Android Studio
+* Instead, consider inserting the code into your own file 
+
 
 ## User Input Their Names to Begin 
 ![image](https://github.com/calmserenity/tictactoeapp/assets/142383855/e8b40eb3-2cf0-4002-9c7e-364ec9dd46ba)
