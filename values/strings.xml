@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+
+    <string name="txtWelcome">ENTER \nPLAYERS NAMES</string>
+    <string name="commandone">Enter player one name</string>
+    <string name="commandtwo">Enter player one name</string>
+    <string name="startbutton">Start Game</string>
+    <string name="playerone">Player One</string>
+    <string name="playertwo">Player Two</string>
+    <string name="result">Result</string>
+    <string name="buttonstartagain">Start Again</string>
+    <string name="help">How to play</string>
+    <string name="instruction">INSTRUCTION</string>
+    <string name= "stepone">The game is played on a grid that\'s 3 squares by 3 squares.</string>
+    <string name="steptwo">Player One is X , Player Two is O . </string>
+    <string name="stepthree">The first player to get 3 of her marks in a row is the winner.</string>
+    <string name="stepfour">When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.</string>
+
+</resources>
